@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+#BP{
+    height: 500px;
+    width: body.width;
+}
+.mynavbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000000000;
+}
+.img2{
+    height: 200px;
+    width: 200px;
+}
+.img3{
+    height: 200px;
+    width: 250px;
+}
